@@ -1,0 +1,10 @@
+chroma-haystack
+chromadb
+python-dotenv
+slack_sdk
+jira
+atlassian-python-api
+openai
+haystack-ai[chroma]
+haystack-ai
+jira
